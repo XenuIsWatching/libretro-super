@@ -17,7 +17,7 @@ manufacturer = "Oracle Corporation"
 categories = "Emulator"
 
 # Name of the system that the core targets (optional):
-systemname = "Java ME"
+systemname = "J2ME"
 
 # ID of the primary platform the core uses.
 # Use other core info files as guidance if possible.
