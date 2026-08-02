@@ -10,7 +10,7 @@ display_version = "3.2.0"
 
 # Hardware Information
 manufacturer = "Sega"
-systemname = "Sega 8-bit (MS/GG/SG-1000)"
+systemname = "Sega Master System"
 systemid = "master_system"
 
 # Libretro Features

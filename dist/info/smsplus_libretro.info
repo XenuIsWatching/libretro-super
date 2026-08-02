@@ -10,7 +10,7 @@ categories = "Emulator"
 
 # Hardware Information
 manufacturer = "Sega"
-systemname = "Sega 8-bit"
+systemname = "Sega Master System"
 systemid = "master_system"
 
 # Libretro Features
